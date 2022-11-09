@@ -117,7 +117,8 @@ The screenshot above (`kubectl describe services`), showing the Kubernetes servi
 
 6. *Use logs to capture metrics for debugging a microservices deployment*
 
-<img width="1039" alt="kubectl_logs" src="https://user-images.githubusercontent.com/55222856/200810176-bb15def6-6992-435e-9e80-c3a45ce94716.png">
+<img width="1039" alt="backend-feed logs" src="https://user-images.githubusercontent.com/55222856/200811757-60d6bfbc-3d7c-4d0a-a846-528bfa7fcc1d.png">
+
 
 
 
